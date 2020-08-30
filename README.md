@@ -87,3 +87,9 @@ Recall: 0.1703
 ## Conclusion
 The best model would be XGBoost.
 The AUC score for the case is 0.7927 this is closer to 1 than all the other AUC scores. The F1 Score is 0.2621. The accuracy is 0.8852. The precision is 0.6176. The recall is 0.1663.
+
+The next best model would be Logistic Regression.
+AUC score for the case is 0.7894. The mean Cross-Validation Accuracy is 0.8916. The F1 Score is 0.2632. The accuracy is 0.8844. The precision is 0.6028. The recall is 0.1683.
+
+The third best model would be Decision Trees.
+AUC score for the case is 0.7891. The mean Cross-Validation Accuracy is 0.8917. The F1 Score is 0.2609. The accuracy is 0.8844. The precision is 0.6043. The recall is 0.1663.

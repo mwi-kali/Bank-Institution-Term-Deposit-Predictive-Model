@@ -86,13 +86,23 @@ Recall: 0.1703
 
 ## Conclusion
 The model has been chosen based on the accuracy, the interpretability, the complexity and the scalability of the model.
+
 The best model would be XGBoost.
+
 The mean Cross-Validation Accuracy is 0.8942.
+
 The AUC score for the XGBoost is 0.7927 this is closer to 1 than all the other AUC scores. The F1 Score is 0.2621. The accuracy is 0.8852. The precision is 0.6176. The recall is 0.1663.
+
 The next best model would be tie between Logistic Regression and Multi-layer Perceptron.
+
 Logistic Regression
+
 The mean Cross-Validation Accuracy is 0.8941
+
 The AUC score for the Logistic Regression is 0.7894. The F1 Score is 0.2632. The accuracy is 0.8844. The precision is 0.6028. The recall is 0.1683.
+
 Multi-layer Perceptron
+
 The mean Cross-Validation Accuracy is 0.8941.
+
 The AUC score for the Multi-layer Perceptron is 0.7102. The F1 Score is 0.3166. The accuracy is 0.5419. The precision is 0.1937. The recall is 0.8653.

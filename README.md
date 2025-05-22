@@ -87,7 +87,7 @@ Run an interactive dashboard combining all phases:
 ```bash
 streamlit run src/dashboard.py
 ```
-- Navigate via sidebar tabs That represent the steps:  
+Navigate via sidebar tabs That represent the steps:  
   – **Exploratory Data Analysis (EDA)**  
   – **Feature Engineering and Preprocessing**  
   – **Model Tuning**  

@@ -1,0 +1,64 @@
+# macOS
+.DS_Store
+
+# Byte-compiled Python
+__pycache__/
+*$py.class
+*.py[cod]
+
+# C extensions
+*.so
+
+# Coverage reports
+.cache
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+nosetests.xml
+.pytest_cache/
+
+# Data & models (raw and artifacts)
+*.csv
+*.pkl
+/data/
+/models/
+
+# Distribution / packaging
+.build/
+dist/
+downloads/
+.eggs/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg
+*.egg-info/
+.installed.cfg
+
+# env
+.env/
+.venv/
+ENV/
+env/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Installer logs
+pip-delete-this-directory.txt
+pip-log.txt
+
+# Jupyter
+.ipynb_checkpoints
+
+# logs
+*.log
+
+# Streamlit
+.streamlit/

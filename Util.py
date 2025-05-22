@@ -1,1 +1,0 @@
-X_train, X_test, y_train, y_test = train_test_split(decoded_output, y, test_size=0.1, random_state=1)
